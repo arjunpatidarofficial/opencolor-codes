@@ -1,5 +1,5 @@
 
-# OpenColor Gradient
+# OpenColor Codes
 
 As a free gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile
 
@@ -9,11 +9,11 @@ As a free gradient generator tool, this website lets you create a colorful gradi
 ## Demo
 
 Link to demo
-https://gradient.opencolor.co/
+https://codes.opencolor.co/
 
 ## Authors
 
-- [@arjunpatidarofficial](https://www.github.com/octokatherine)
+- [@arjunpatidarofficial](https://www.github.com/arjunpatidarofficial)
 
 ## 🚀 About Me
 I'm a full stack developer...
@@ -26,5 +26,5 @@ https://arjunpatidar.me/
 
 ## Screenshots
 
-![App Screenshot](https://cdn.dribbble.com/users/2883643/screenshots/20322784/media/33a37b0643b062e54ed9796ea25ee32b.png?compress=1&resize=400x300&vertical=top)
+![App Screenshot](https://cdn.dribbble.com/users/2883643/screenshots/20323039/media/1e75cb5bb8c2586d5ed307d0f1412bc3.png?compress=1&resize=400x300&vertical=top)
 
